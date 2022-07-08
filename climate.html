@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raebareli Tour website design</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css">
+</head>
+<body>
+
+    <section class="sub-header">
+        <nav>
+            <a href="index,html"><img src="/img/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa-chevron-left" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="places.html">PLACES</a></li>
+                    <li><a href="climate.html">CLIMATE</a></li>
+                    <li><a href="history.html">HISTORY</a></li>
+                    <li><a href="park.html">HISTORICAL PLACE</a></li>
+                    <li><a href="visit.html">VISIT</a></li>
+                </ul>
+             </div>
+               <i class="fa-chevron-circle-left" onclick="showMenu()"> 
+               </i>
+        </nav>
+
+        <h1>Our Climate</h1> 
+    </section>
+
+<!-- -----------------------------------Course---------------------------- -->
+
+<section class="places">
+    <h1>Climate</h1>
+    <p>Raebareli district lies in subtropical belt of India and thus faces extreme weather in winters and summers. The winters are dry and cold with temperature varying from 12 degree Celsius to 3-4 degree Celsius. The summers are extremely hot with hot winds blowing in the month of May and June. The temperature during summers shoots as high as 42 degree Celsius. Rainfall in Raebareli is though moderate to a height of 1200mm.</p>
+        
+    <div class="row">
+        <div class="places-col">
+            <h3>Archietectures</h3>
+            <p>Raebareli is known for its architectural creations. The very famous fort built in 14 th century portrays superior form of art and architecture that prevailed in this region. The mosques and the tomb of Nawab Jahan Khan exemplify the masterpieces of Muslim art. Many tourists visit to see these monuments every year at Raebareli.</p>
+        </div>
+        <div class="places-col">
+            <h3>Festivals and Attiers</h3>
+            <p>Raebareli houses a mixed population of Hindus and Muslims. All major festivals like Holi, Diwali, Dussehra, Eid and Ramzhan are celebrated with equal spirits here.Many contemporary dress styles and Indo-western attires are popular in Raebareli these days. But the traditional wear remains the same. Saree is the traditional dress for women whereas Dhoti Kurta finds a commonplace amongst men.
+            </p>
+        </div>
+        <div class="places-col">
+            <h3>Shopping Malls</h3>
+            <p>The local markets of Raebareli city offer a one-stop solution for many shopping needs. One can buy gems and jewelleries from various recognized shops. There are many stalls and small shops that are adorned with wooden crafts, gift items and decorative pieces that are best takeaways. Various handicrafts and fabrics are available to choose from. One can buy beautifully embellished Lucknowi Chikan saree or kurtis. Otherwise, never ending Banarasi and silken fabrics are also available in the market.</p>
+        </div>
+        
+    </div>
+
+ </section>
+
+     <!-- ---------------------Facilities------------------------ -->
+
+
+     <section class="facilities">
+        <h1>Our Culture</h1>
+        <p>Raebareli is an image of the traditional Awadhi culture which has been presently beautified with the colours and thoughts of the present generations and ideas of progressive minds.</p>
+        
+        <div class="row">
+            <div class="facilities-col">
+                <img src="/img/fgiet.jpg">
+                <h3>EDUCATION</h3>
+                <p>Education is an integral part of the Raebareli district. The city has excelled in the field of learning and today it is one of the best places for pursuance of education since it comprises some of the best educational institutions of the country. A notable figure from the field of education and associated with Raebareli is Dr V.P. Singh, who was the principal of Feroze Gandhi College and who was known across the country for his immense research and contribution in the field of Physiology and Ecology.</p>
+            </div>
+            <div class="facilities-col">
+                <img src="/img/dance.jpg">
+                <h3>DANCE</h3>
+                <p>The traditional dance form popular here is the kathak dance in sync with musical songs like ghazals, thumri, khayal and others. This can be treated as a positive initiative to retain the traditional culture and inherited love for art and music of the natives.</p>
+            </div>
+            <div class="facilities-col">
+                <img src="/img/awadhi.jpg">
+                <h3>Language</h3>
+                <p>The language of Raebareli also throws light on the culture of the district. The natives in Raebareli use mainly two languages for communication, Hindi and Awadhi. Though Hindi is the official language of the district many people prefer to use the traditional Awadhi vernacular.</p>
+            </div>
+        </div>
+
+     </section>
+
+  
+
+<!-- -------------------------footer------------------------ -->
+
+
+<footer class="footer">
+    <h4>Visit US</h4>
+    <p>It's a pleasure to present you my website on my state to all. Every place has its goods and bads ,the thing that matters most is on which you focus,<br> new places means new culture and our target is to just show some Glimpse of city ,theres a lot to get.So for that #visit us</p>
+    <div class="icons">
+      <i class="fa fa-face-grin-beam-sweat"></i>
+      <i class="fa fa-face-grin-hearts"></i>
+      <i class="fa fa-face-grin-tongue"></i>
+      <i class="fa fa-face-grin-stars"></i>
+    </div>
+    <p>Made With <i class="fa fa-heart"> by student</i></p>
+</footer>
+
+
+
+
+<!-- ----------------JavaScript for Toggle Menu------------------------ -->
+    <script>
+
+        var navLinks = document.getElementById("navLinks");
+        
+        function showMenu()
+        {
+            navLinks.style.right = "0";
+        }
+        
+        function hideMenu()
+        {
+            navLinks.style.right = "-200px";
+        }
+    
+    </script>
+    
+</body>
+</html>

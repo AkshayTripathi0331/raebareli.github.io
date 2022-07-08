@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raebareli Tour website design</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css">
+</head>
+<body>
+
+    <section class="sub-header">
+        <nav>
+            <a href="index,html"><img src="/img/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa-chevron-left" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="places.html">PLACES</a></li>
+                    <li><a href="climate.html">CLIMATE</a></li>
+                    <li><a href="history.html">HISTORY</a></li>
+                    <li><a href="park.html">HISTORICAL PLACE</a></li>
+                    <li><a href="visit.html">VISIT</a></li>
+                </ul>
+             </div>
+               <i class="fa-chevron-circle-left" onclick="showMenu()"> 
+               </i>
+        </nav>
+
+        <h1>HISTORICAL PLACE</h1> 
+    </section>
+
+    
+    <section class="facilities">
+        <h1>Shaheed Smarak</h1>
+        <p>Government Freedom Struggle Museum, Meerut was established in 1997. It is located in the Shaheed Smarak compound on Delhi Road, about 6 km north-east from the city railway station and at a distance of about 200 meters from the Delhi Bus Station. Visitors can stay in various guesthouses, private lodges and hotels.
+<br>
+            The Museum’s main aim is the collection, preservation, documentation and exhibition of cultural property and to make it available for educational activities as well as for creation of awareness about our glorious past.Some postal stamps, pictures, post cards, memorial coins related to the events of 1857 and latter coins are also in the collection of the museum. The museum is in the developing stages and efforts are being made to collect more specimens.
+            <br>
+            The museum organises educational programs such as lectures, seminars and competitions related to history, culture, philosophy, the freedom struggle and religion.It also aims at coordinating with other cultural and educational organizations for disseminating Indian culture and particularly the events related to the long drawn freedom struggle of India.</p>
+        
+        <div class="row">
+            <div class="facilities-col">
+                <img src="/img/ss1.jpg">
+            </div>
+            <div class="facilities-col">
+                <img src="/img/ss2.jpg">
+            </div>
+            <div class="facilities-col">
+                <img src="/img/ss3.jpg">
+            </div>
+        </div>
+        <div class="row">
+            <div class="facilities-col">
+                <img src="/img/ss4.jpg">
+            </div>
+            <div class="facilities-col">
+                <img src="/img/ss5.jpg">
+            </div>
+            <div class="facilities-col">
+                <img src="/img/ss6.jpg">
+            </div>
+        </div>
+
+     </section>
+
+
+     
+    <!-- -------------------------footer------------------------ -->
+
+
+    <footer class="footer">
+        <h4>Visit US</h4>
+        <p>It's a pleasure to present you my website on my state to all. Every place has its goods and bads ,the thing that matters most is on which you focus,<br> new places means new culture and our target is to just show some Glimpse of city ,theres a lot to get.So for that #visit us</p>
+        <div class="icons">
+          <i class="fa fa-face-grin-beam-sweat"></i>
+          <i class="fa fa-face-grin-hearts"></i>
+          <i class="fa fa-face-grin-tongue"></i>
+          <i class="fa fa-face-grin-stars"></i>
+        </div>
+        <p>Made With <i class="fa fa-heart"> by student</i></p>
+  </footer>
+  
+   
+  
+
+<!-- ----------------JavaScript for Toggle Menu------------------------ -->
+    <script>
+
+        var navLinks = document.getElementById("navLinks");
+        
+        function showMenu()
+        {
+            navLinks.style.right = "0";
+        }
+        
+        function hideMenu()
+        {
+            navLinks.style.right = "-200px";
+        }
+    
+    </script>
+    
+</body>
+</html>
+
