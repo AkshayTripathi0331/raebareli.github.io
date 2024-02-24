@@ -43,26 +43,18 @@ Raebareli Tour website is a comprehensive guide that offers information about va
 
 ### Mobile View:
 
-#### Home Page:
-![Home Page](/screenshots/Mobile_view/Home.png)
+| Home Page | Sidebar | Places Page |
+|:---------:|:-------:|:-----------:|
+| ![Home Page](/screenshots/Mobile_view/Home.png) | ![Sidebar](/screenshots/Mobile_view/sidebar.png) | ![Places Page](/screenshots/Mobile_view/places.png) |
 
-#### Sidebar:
-![Sidebar](/screenshots/Mobile_view/sidebar.png)
+| Climate Page | History Page | Historical Place Page |
+|:------------:|:------------:|:---------------------:|
+| ![Climate Page](/screenshots/Mobile_view/climate.png) | ![History Page](/screenshots/Mobile_view/history.png) | ![Historical Place Page](/screenshots/Mobile_view/historical_place.png) |
 
-#### Places Page:
-![Places Page](/screenshots/Mobile_view/places.png)
+| Visit Page |
+|:----------:|
+| ![Visit Page](/screenshots/Mobile_view/visit.png) |
 
-#### Climate Page:
-![Climate Page](/screenshots/Mobile_view/climate.png)
-
-#### History Page:
-![History Page](/screenshots/Mobile_view/history.png)
-
-#### Historical Place Page:
-![Historical Place Page](/screenshots/Mobile_view/historical_place.png)
-
-#### Visit Page:
-![Visit Page](/screenshots/Mobile_view/visit.png)
 
 ## Demo Video
 
