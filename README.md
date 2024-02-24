@@ -13,7 +13,6 @@ Welcome to the Raebareli Tour website! This project is designed to provide visit
 - [Setup Instructions](#setup-instructions)
 - [Technologies Used](#technologies-used)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -98,6 +97,3 @@ git clone https://github.com/your-username/raebareli-tour.git
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For any inquiries or suggestions, feel free to reach out to us at [email@example.com](mailto:email@example.com).
