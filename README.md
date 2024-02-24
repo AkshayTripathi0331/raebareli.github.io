@@ -67,11 +67,7 @@ Raebareli Tour website is a comprehensive guide that offers information about va
 ## Demo Video
 
 Watch a demo video of the website:
-
-<video width="640" height="360" controls>
-  <source src="/demo_video/Demo video fast.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Demo Video](https://drive.google.com/file/d/1MQmwVrmPmE79dToUAZ9eUOQePhOTgTJ-/view?usp=drive_link)
 
 
 ## Features
