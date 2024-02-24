@@ -27,16 +27,16 @@ Raebareli Tour website is a comprehensive guide that offers information about va
 ![Home Page](/screenshots/Desktop_view/Home.png)
 
 #### Places Page:
-![Places Page](/screenshots/Desktop_view/Places.png)
+![Places Page](/screenshots/Desktop_view/places.png)
 
 #### Climate Page:
-![Climate Page](/screenshots/Desktop_view/Climate.png)
+![Climate Page](/screenshots/Desktop_view/climate.png)
 
 #### History Page:
-![History Page](/screenshots/Desktop_view/History.png)
+![History Page](/screenshots/Desktop_view/history.png)
 
 #### Historical Place Page:
-![Historical Place Page](/screenshots/Desktop_view/Historical_Place.png)
+![Historical Place Page](/screenshots/Desktop_view/historical_place.png)
 
 #### Visit Page:
 ![Visit Page](/screenshots/Desktop_view/visit_us.png)
@@ -47,19 +47,19 @@ Raebareli Tour website is a comprehensive guide that offers information about va
 ![Home Page](/screenshots/Mobile_view/Home.png)
 
 #### Sidebar:
-![Sidebar](/screenshots/Mobile_view/Sidebar.png)
+![Sidebar](/screenshots/Mobile_view/sidebar.png)
 
 #### Places Page:
-![Places Page](/screenshots/Mobile_view/Places.png)
+![Places Page](/screenshots/Mobile_view/places.png)
 
 #### Climate Page:
-![Climate Page](/screenshots/Mobile_view/Climate.png)
+![Climate Page](/screenshots/Mobile_view/climate.png)
 
 #### History Page:
-![History Page](/screenshots/Mobile_view/History.png)
+![History Page](/screenshots/Mobile_view/history.png)
 
 #### Historical Place Page:
-![Historical Place Page](/screenshots/Mobile_view/Historical_Place.png)
+![Historical Place Page](/screenshots/Mobile_view/historical_place.png)
 
 #### Visit Page:
 ![Visit Page](/screenshots/Mobile_view/visit.png)
